@@ -1,1 +1,1 @@
-CS231N Convolutional Neural Networks for Visual Recognition Project
+CS231N Convolutional Neural Networks for Visual Recognition Final Project
