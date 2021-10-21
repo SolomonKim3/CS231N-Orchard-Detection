@@ -1,1 +1,1 @@
-# CS231N Convolutional Neural Networks for Visual Recognition Final Project
+# CS231N Detecting Orchards in West Africa Using Convolutional Neural Networks
